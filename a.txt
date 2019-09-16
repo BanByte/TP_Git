@@ -1,16 +1,6 @@
-<<<<<<< HEAD
 Non
-=======
+Oui
+Non
+Oui
+Non
 
-Oui
-<<<<<<< HEAD
->>>>>>> Dev
-=======
-
-Oui
-Non
-Oui
-Non
-Oui
-Non
->>>>>>> Dev
